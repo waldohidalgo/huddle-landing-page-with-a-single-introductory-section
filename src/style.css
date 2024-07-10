@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+.containerSocialMedia {
+  @apply [&>svg]:aspect-square [&>svg]:w-[13px] w-[27px] aspect-square rounded-full border border-white border-solid flex justify-center items-center [&>svg]:fill-white hover:border-softMagenta cursor-pointer md:[&>svg]:w-[18px] md:w-[40px];
+}
+
+@tailwind utilities;
