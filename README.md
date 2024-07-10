@@ -43,12 +43,12 @@ El challenge consiste en realizar lo siguiente:
 
 ### 1- Mobile Size
 
-![Mobile Size](./screenshots/waldo/mobile.png)
+![Mobile Size](./screenshots/waldo/mobile.webp)
 
 ### 2- Desktop Size
 
-![Desktop Size](./screenshots/waldo/desktop.png)
+![Desktop Size](./screenshots/waldo/desktop.webp)
 
 ### 3- Active States
 
-![Active States](./screenshots/waldo/active_states.png)
+![Active States](./screenshots/waldo/active_states.webp)
